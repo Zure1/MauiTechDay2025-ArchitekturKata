@@ -26,6 +26,7 @@ Erstellt folgende Diagramme:
 
 ## Rahmen
 - Zeit: 60–90 min
+- Im Anschluss stellt jedes Team sein Ergebnis kurz vor
 
 ## Tools (frei wählbar)
 - draw.io
