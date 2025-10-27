@@ -1,0 +1,1 @@
+# MauiTechDay2025-ArchitekturKata
