@@ -16,7 +16,7 @@ Warenkorb: A×3 → Gesamtpreis 4,00 €
 
 ## Aufgabe
 Erstellt folgende Diagramme:
-1. **Modul-/Containerstruktur** (zentrale Bausteine)
+1. **Modul-Struktur** (zentrale Bausteine)
 2. **Promotion Engine** (wie werden die Promotions angewendet?)
 3. **Sequenzdiagramm** für das obige Beispiel (Scan → Berechnung → Ergebnis)
 
